@@ -1,18 +1,9 @@
 #include <iostream>
 #include <array>
+#include "ll.cpp"
 using namespace std;
 
-void ll(int n=1)
-    {
-        for(int i=0;i<n;i++)
-        {
-            cout << "\n";
-        }
-    }
-
 int main() {
-    
-  // cout << "Hello World!\n";
 
     array<int , 4> a = {1,2,3,4};
     

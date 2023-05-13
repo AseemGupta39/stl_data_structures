@@ -5,3 +5,4 @@ main
 main-debug
 main.o
 replit.nix
+*.out
