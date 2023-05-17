@@ -6,3 +6,4 @@ main-debug
 main.o
 replit.nix
 *.out
+git_det.txt
