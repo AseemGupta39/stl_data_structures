@@ -7,3 +7,4 @@ main.o
 replit.nix
 *.out
 git_det.txt
+*.py
