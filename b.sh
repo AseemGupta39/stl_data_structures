@@ -1,3 +1,4 @@
 read -p "enter file name: " fie
-g++ $fie
+s="$fie.cpp"
+g++ $s
 ./a.out
